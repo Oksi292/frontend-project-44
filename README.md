@@ -1,2 +1,5 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Oksi292/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Oksi292/frontend-project-44/actions)
+Смотрите пример игры в [этом 
+видео](https://asciinema.org/a/omq4jSGT54T5V5b82DTtyziU1).
+
