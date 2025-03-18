@@ -11,3 +11,8 @@
 
 (https://asciinema.org/a/Zk9NP3b7hnrsJLzNgtCn7QCdx)
 
+## Демонстрация игры Арифметическая прогрессия
+
+
+[![asciicast](https://asciinema.org/a/uu3CmnBe5PmNYLElQDx4RFlzA.svg)](https://asciinema.org/a/uu3CmnBe5PmNYLElQDx4RFlzA)
+
