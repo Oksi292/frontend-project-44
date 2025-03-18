@@ -3,3 +3,8 @@
 Смотрите пример игры в [этом 
 видео](https://asciinema.org/a/omq4jSGT54T5V5b82DTtyziU1).
 
+## Демонстрация игры brain-calc
+
+[![asciicast](https://asciinema.org/a/LFUDQH4V4OTPR3kXWQKMvCqWt.svg)](https://asciinema.org/a/LFUDQH4V4OTPR3kXWQKMvCqWt)
+
+
