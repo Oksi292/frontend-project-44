@@ -12,7 +12,7 @@
   },
   "type": "module",
   "scripts": {
-    "srain-prime": "node ./bin/brain-prime.js"
+    "brain-prime": "node ./bin/brain-prime.js"
   },
   "author": "",
   "license": "ISC",
