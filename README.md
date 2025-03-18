@@ -16,3 +16,8 @@
 
 [![asciicast](https://asciinema.org/a/uu3CmnBe5PmNYLElQDx4RFlzA.svg)](https://asciinema.org/a/uu3CmnBe5PmNYLElQDx4RFlzA)
 
+
+## Демонстрация игры "Простое ли число?"
+
+[![asciinema](https://asciinema.org/a/NB34XroH6ajpFvReuk8QLflCa.svg)](https://asciinema.org/a/NB34XroH6ajpFvReuk8QLflCa)
+
