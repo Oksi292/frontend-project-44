@@ -7,4 +7,7 @@
 
 [![asciicast](https://asciinema.org/a/LFUDQH4V4OTPR3kXWQKMvCqWt.svg)](https://asciinema.org/a/LFUDQH4V4OTPR3kXWQKMvCqWt)
 
+## Как играть в игру "НОД"
+
+(https://asciinema.org/a/Zk9NP3b7hnrsJLzNgtCn7QCdx)
 
