@@ -1,4 +1,4 @@
-import readlineSync from 'readline-sync';
+//import readlineSync from 'readline-sync';
 
 // Функция для генерации случайного числа
 const getRandomInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
