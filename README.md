@@ -1,22 +1,58 @@
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/Oksi292/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Oksi292/frontend-project-44/actions)
-Смотрите пример игры в [этом 
-видео](https://asciinema.org/a/omq4jSGT54T5V5b82DTtyziU1).
+Command-Line Games
 
-## Демонстрация игры brain-calc
+Description
 
-[![asciicast](https://asciinema.org/a/LFUDQH4V4OTPR3kXWQKMvCqWt.svg)](https://asciinema.org/a/LFUDQH4V4OTPR3kXWQKMvCqWt)
+This project contains a collection of command-line games designed to challenge your logic and math skills. Each game has its own unique set of challenges:
+ Brain Calc: A math calculator game.
+ Brain Even: A game to determine if a number is even or odd.
+ Brain GCD: A game for calculating the greatest common divisor (GCD).
+ Brain Prime: A game to check if a number is prime.
+ Brain Progression: A game where you identify the missing number in an arithmetic progression.
 
-## Как играть в игру "НОД"
+Minimum Requirements
 
-(https://asciinema.org/a/Zk9NP3b7hnrsJLzNgtCn7QCdx)
+ Node.js v14 or higher
+ npm (Node Package Manager)
 
-## Демонстрация игры Арифметическая прогрессия
+Installation
+ Clone the repository:
+   git clone (https://github.com/Oksi292/frontend-project-44)
+
+Navigate to the project directory:
+   cd frontend-project-44
+
+Install dependencies: 
+   npm install
+
+Link the project globally:
+   npm link
 
 
-[![asciicast](https://asciinema.org/a/uu3CmnBe5PmNYLElQDx4RFlzA.svg)](https://asciinema.org/a/uu3CmnBe5PmNYLElQDx4RFlzA)
+Usage
+ To play the games, run the corresponding command:
+
+Brain Calc:
+   brain-calc
+Brain Even:
+   brain-even
+Brain GCD:
+   brain-gcd
+Brain Prime:
+   brain-prime
+Brain Progression:
+   brain-progression
 
 
-## Демонстрация игры "Простое ли число?"
+Demo (Asciinema)
+ You can view the game process in the following asciinema recordings. Each includes a demonstration of both successful and unsuccessful attempts:
 
-[asciinema](https://asciinema.org/a/KaUt8syD1rBhGRyKjOG9hW7lt)
+Brain Calc: [Asciinema Demo Link](https://asciinema.org/a/lrUmDLTmOwVGgWGmfi7qizQ4X)
+
+Brain Even: [Asciinema Demo Link](https://asciinema.org/a/0dyMfOmYnh9D9iLMB9F7SAWyK)
+
+Brain GCD: [Asciinema Demo Link](https://asciinema.org/a/S62GJKqjnd4SPuzWHTW5bz5ch)
+
+Brain Prime: [Asciinema Demo Link](https://asciinema.org/a/vmQsjSQS70Vg9YsYivmzb3Pk7)
+
+Brain Progression: [Asciinema Demo Link](https://asciinema.org/a/ZBWfiyqieg8HJvTlSMHQsaq3a)
+
